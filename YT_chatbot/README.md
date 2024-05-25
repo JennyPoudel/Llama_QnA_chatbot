@@ -1,2 +1,1 @@
-# Naritwa
-A chatbot that simplifies women's rights.
+#Llama based chatbot for QnA
